@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781782169352)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 #Learning-Predictive-Analytics-with-R
 Code Bundle for [Learning-Predictive-Analytics-with-R](https://www.packtpub.com/big-data-and-business-intelligence/learning-predictive-analytics-r?utm_source=github&utm_medium=repository&utm_campaign=9781782169352), published by Packt Publishing, it contains all the code files required to get started with this book from start to finish.
 ##What you need for this Code files:
